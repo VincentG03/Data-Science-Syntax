@@ -1,6 +1,6 @@
 # Data Science Notes
 
-This project serves as a comprehensive reference for relevant data science syntax (pandas, matplotlib) I have learned. 
+This project serves as a comprehensive reference for relevant data science syntax (pandas, matplotlib) in Python.
 
 The base dataset for all examples in the Pandas and Matplotlib sections will be the well-known "Titanic" dataset, which can be found on [Kaggle](https://www.kaggle.com/competitions/titanic/data). At times, other simplier datasets are used for an example.
 
