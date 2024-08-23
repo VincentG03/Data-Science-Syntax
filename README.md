@@ -1,4 +1,4 @@
-# Python Syntax Notes
+# Data Science Notes
 
 This project serves as a comprehensive reference for the Python syntax I have learned. As I am pursuing a Data Science degree, my focus is on the general Python syntax used for solving data structure and algorithm problems, such as those found on LeetCode, as well as data science libraries like Pandas and Matplotlib.
 
