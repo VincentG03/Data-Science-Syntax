@@ -1,6 +1,6 @@
 # Data Science Notes
 
-This project serves as a comprehensive reference for the Python syntax I have learned. As I am pursuing a Data Science degree, my focus is on the general Python syntax used for solving data structure and algorithm problems, such as those found on LeetCode, as well as data science libraries like Pandas and Matplotlib.
+This project serves as a comprehensive reference for relevant data science syntax (pandas, matplotlib) I have learned. 
 
 The base dataset for all examples in the Pandas and Matplotlib sections will be the well-known "Titanic" dataset, which can be found on [Kaggle](https://www.kaggle.com/competitions/titanic/data). At times, other simplier datasets are used for an example.
 
