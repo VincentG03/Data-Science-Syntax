@@ -11,8 +11,16 @@ The base dataset for all examples in the Pandas and Matplotlib sections will be 
 <br/><br/>
 
 # Table of Contents: Pandas
+
+### Importing Data 
+- “read_csv()”  
+- “read_excel()” 
+- “read_json()” 
+- “read_table()”   
+
+
 ### Data Exploration
-- “head()” and “tail()” 
+- “head()” and “tail()”  
 - “sample()”
 - “shape” 
 - “columns”
@@ -27,10 +35,13 @@ The base dataset for all examples in the Pandas and Matplotlib sections will be 
 - “isna()” 
 - “dropna()”
 - “fillna()”
+- “notna()”   
 
 ### Selecting Data
 - “iloc[]”
 - “loc[]”
+- “.iat” 
+- “.at”   
 
 ### Data Transformation
 - “apply()”
