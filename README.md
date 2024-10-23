@@ -4,7 +4,7 @@ This project serves as a comprehensive reference for relevant data science synta
 
 The base dataset for all examples in the Pandas and Matplotlib sections will be the well-known "Titanic" dataset, which can be found on [Kaggle](https://www.kaggle.com/competitions/titanic/data). At times, other simplier datasets are used for an example.
 
-#### <u>Last Updated</u>: 23-Aug-2024
+#### <u>Last Updated</u>: 23-October-2024
 
 #### <u>Author</u>: Vincent Giang  
 
